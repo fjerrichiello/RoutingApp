@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutingApp", "RoutingApp\RoutingApp.csproj", "{3D6F1AE8-F761-4853-B36A-7EAF5FD80A70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{24A70E06-6569-46FA-9097-40E0D32E9BE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D6F1AE8-F761-4853-B36A-7EAF5FD80A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6F1AE8-F761-4853-B36A-7EAF5FD80A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6F1AE8-F761-4853-B36A-7EAF5FD80A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6F1AE8-F761-4853-B36A-7EAF5FD80A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A70E06-6569-46FA-9097-40E0D32E9BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A70E06-6569-46FA-9097-40E0D32E9BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A70E06-6569-46FA-9097-40E0D32E9BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A70E06-6569-46FA-9097-40E0D32E9BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
